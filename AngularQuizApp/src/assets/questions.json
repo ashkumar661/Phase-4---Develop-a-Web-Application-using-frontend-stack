@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "questionText": "Grand Central Terminal, Park Avenue, New York is the world's",
+            "options": [
+                {
+                    "text": "largest railway station",
+                    "correct": true
+                },
+                {
+                    "text": "highest railway station"
+                },
+                {
+                    "text": "longest railway station"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ]
+        },
+        {
+            "questionText": "For which of the following disciplines is Nobel Prize awarded?",
+            "options": [
+                {
+                    "text": "Physics and Chemistry"
+                },
+                {
+                    "text": "Physiology or Medicine"
+                },
+                {
+                    "text": "Literature, Peace and Economics"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Golf player Vijay Singh belongs to which country?",
+            "options": [
+                {
+                    "text": "USA"
+                },
+                {
+                    "text": "Fiji",
+                    "correct": true
+                },
+                {
+                    "text": "India"
+                },
+                {
+                    "text": "UK"
+                }
+            ]
+        },
+        {
+            "questionText": "First China War was fought between",
+            "options": [
+                {
+                    "text": "China and France"
+                },
+                {
+                    "text": "China and Britain",
+                    "correct": true
+                },
+                {
+                    "text": "China and Egypt"
+                },
+                {
+                    "text": "China and Greek"
+                }
+            ]
+        },
+        {
+            "questionText": "Federation Cup, World Cup, Allywyn International Trophy and Challenge Cup are awarded to winners of",
+            "options": [
+                {
+                    "text": "Volleyball",
+                    "correct": true
+                },
+                {
+                    "text": "Tennis"
+                },
+                {
+                    "text": "Basketball"
+                },
+                {
+                    "text": "Cricket"
+                }
+            ]
+        },
+        {
+            "questionText": "Friction can be reduced by changing from",
+            "options": [
+                {
+                    "text": "rolling to sliding"
+                },
+                {
+                    "text": "potential energy to kinetic energy"
+                },
+                {
+                    "text": "dynamic to static"
+                },
+                {
+                    "text": "sliding to rolling",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Film and TV institute of India is located at",
+            "options": [
+                {
+                    "text": "Rajkot (Gujarat)"
+                },
+                {
+                    "text": "Pune (Maharashtra)",
+                    "correct": true
+                },
+                {
+                    "text": "Pimpri (Maharashtra)"
+                },
+                {
+                    "text": "Perambur (Tamilnadu)"
+                }
+            ]
+        },
+        {
+            "questionText": "The ozone layer restricts",
+            "options": [
+                {
+                    "text": "Ultraviolet radiation",
+                    "correct": true
+                },
+                {
+                    "text": "Infrared radiation"
+                },
+                {
+                    "text": "X-rays and gamma rays"
+                },
+                {
+                    "text": "Visible light"
+                }
+            ]
+        },
+        {
+            "questionText": "Ecology deals with",
+            "options": [
+                {
+                    "text": "Relation between organisms and their environment",
+                    "correct": true
+                },
+                {
+                    "text": "Cell formation"
+                },
+                {
+                    "text": "Birds"
+                },
+                {
+                    "text": "Tissues"
+                }
+            ]
+        },
+        {
+            "questionText": "Coral reefs in India can be found in",
+            "options": [
+                {
+                    "text": "Waltair"
+                },
+                {
+                    "text": "Trivandrum"
+                },
+                {
+                    "text": "the coast of Orissa"
+                },
+                {
+                    "text": "Rameshwaram",
+                    "correct": true
+                }
+            ]
+        }
+    ]
+}
